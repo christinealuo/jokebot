@@ -1,4 +1,4 @@
-import time, csv, sys, requests, json, re
+clearimport time, csv, sys, requests, json, re
 
 # deliver jokes
 def deliver(prompt, punch):
